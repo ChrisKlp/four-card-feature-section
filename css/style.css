@@ -112,6 +112,7 @@ body {
   margin-top: 3.6rem;
   width: 5.7rem;
   height: 5.7rem;
+  background-size: cover;
 }
 
 .card:nth-child(1) > .card__image {
